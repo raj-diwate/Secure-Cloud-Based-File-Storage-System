@@ -1,0 +1,19 @@
+# Credentials and tokens
+server/token.pickle
+*.pickle
+
+# Environment variables
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
